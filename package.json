@@ -1,0 +1,11 @@
+{
+  "name": "express-template",
+  "version": "1.0.0",
+  "description": "Starter Repo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "Lokesh Dhakar <lokeshdhakar6633@gmail.com>",
+  "license": "ISC"
+}
