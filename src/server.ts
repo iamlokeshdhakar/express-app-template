@@ -1,5 +1,9 @@
-function sayHello() {
-    return `Hello`;
+function sayHello(name: string) {
+
+
+
+    return `Hello` + name
+
 }
 
-console.log(sayHello());
+                console.log(sayHello("Ge"));
