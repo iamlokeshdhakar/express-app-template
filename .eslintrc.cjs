@@ -12,7 +12,7 @@ module.exports = {
     },
     plugins: ['@typescript-eslint'],
     root: true,
-    rules:{
-        "no-console": "warn",
-    }
+    rules: {
+        'no-console': 'warn',
+    },
 };

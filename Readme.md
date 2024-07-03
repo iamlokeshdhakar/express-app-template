@@ -6,8 +6,8 @@ This readme provides instructions on setting up an Express template project.
 
 Before getting started, make sure you have the following installed on your machine:
 
-- Node.js
-- npm (Node Package Manager)
+-   Node.js
+-   npm (Node Package Manager)
 
 ## Installation
 
@@ -25,9 +25,9 @@ Before getting started, make sure you have the following installed on your machi
 
 Feel free to customize the project to fit your needs. Here are a few suggestions:
 
-- Add your own routes and controllers.
-- Install additional npm packages for extra functionality.
-- Modify the views and public folders to match your project's design.
+-   Add your own routes and controllers.
+-   Install additional npm packages for extra functionality.
+-   Modify the views and public folders to match your project's design.
 
 ## Contributing
 
